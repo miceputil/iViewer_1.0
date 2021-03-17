@@ -1,13 +1,13 @@
 package application;
 
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.stage.Stage;
-import javafx.stage.StageStyle;
-import javafx.stage.Window;
+import javaFx.application.Application;
+import javaFx.fxml.FXMLLoader;
+import javaFx.stage.Stage;
+import javaFx.stage.StageStyle;
+import javaFx.stage.Window;
 import service.ChangeService;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
+import javaFx.scene.Parent;
+import javaFx.scene.Scene;
 
 
 public class Main3 extends Application {
@@ -35,3 +35,5 @@ public class Main3 extends Application {
 		launch(args);
 	}
 }
+
+//it's a test.
